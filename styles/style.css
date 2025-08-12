@@ -75,14 +75,14 @@
   font-size: 62px;
   line-height: 76px;
   font-weight: 500;
-  margin-top: 0;
+  margin-top: 128px;
 }
 
 .header__description {
   max-width: 515px;
   font-size: 20px;
   line-height: 30px;
-  margin-top: 0;
+  margin-top: 32px;
 }
 
 .header__image {
@@ -177,7 +177,7 @@
 }
 
 .card__footer {
-  margin-top: 0;
+  margin: 20px 0 0;
   font-size: 14px;
   line-height: 20px;
   color: #838383;
