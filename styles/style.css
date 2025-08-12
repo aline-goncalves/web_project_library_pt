@@ -369,11 +369,11 @@
 }
 
 .footer__column_content_hours {
-  margin: 0 80px 0 auto;
+  margin-left: auto;
 }
 
 .footer__column_content_social {
-  margin: 0;
+  margin-left: 80px;
 }
 
 .footer__logo {
